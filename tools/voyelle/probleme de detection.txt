@@ -1,0 +1,15 @@
+A aigue : tres fort
+A grave : moyen
+
+E aigue : moyen
+E grave : probleme
+
+I aigue : aucune detect
+I grave : faible
+
+O aigue : fort
+O grave : no detect
+
+U aigue : faible
+U grave : just below
+
